@@ -1,0 +1,6 @@
+name = input('enter your name')
+age = int(input('enter your age'))
+# print('helloo mr',a,'you are',b,'years old')
+print("heello your name is %s age is %d" %(name,age))
+print(f"hello your name is {name} age is {age}")
+print('heeeiiiii',end='\t')
